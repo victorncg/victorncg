@@ -8,6 +8,9 @@ I graduated from Northeastern University from Boston (MA) with a Master’s of S
 
 Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com), a company that has become a reference in teaching quantitative finance for the Brazilian financial market.
 
+If you want to check Trading com Dados' github, click the link below
+https://github.com/Trading-com-Dados
+
 
 ## Page under construction!
 
