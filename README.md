@@ -11,6 +11,9 @@ Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com),
 If you want to check Trading com Dados' github, click the link below
 https://github.com/Trading-com-Dados
 
+Current status
+I am currently reviewing and updating some old repositories I had here and maybe don't make sense anymore.
+
 
 ## Page under construction!
 
