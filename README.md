@@ -18,10 +18,11 @@ I am currently reviewing and updating some old repositories I had here and maybe
 Olá a todos! Sejam bem-vindos ao meu Github
 
 Alguns repositórios que vocês vão encontrar por aqui
-Aulas & Palestras -  Códigos desenvolvidos em aulas e palestras dadas em universidades
-Finanças Quantitativas - Principalmente rascunhos e tentativas de algoritmos que desenvolvo na área de finanças quantitativas
-Tutoriais Públicos (Trading com Dados) - Tutoriais desenvolvidos para o Instagram da Trading com Dados
-Lives (Trading com Dados) - Códigos desenvolvidos em lives e vídeos da Trading com Dados
+
+1. ([Aulas & Palestras](https://github.com/victorncg/aulas_palestras)) -  Códigos desenvolvidos em aulas e palestras dadas em universidades
+2. ([Finanças Quantitativas](https://github.com/victorncg/financas_quantitativas)) - Principalmente rascunhos e tentativas de algoritmos que desenvolvo na área de finanças quantitativas
+3. Tutoriais Públicos (Trading com Dados) - Tutoriais desenvolvidos para o Instagram da Trading com Dados
+4. Lives (Trading com Dados) - Códigos desenvolvidos em lives e vídeos da Trading com Dados
 
 
 ## Page under construction!
