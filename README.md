@@ -2,9 +2,9 @@
 
 Welcome to my page everyone!
 
+[EN]
 I am an engineer who found my true passion in the world of data. I found out that the power of data can improve our decision making in the financial markets, and since then have dedicated my life to making this knowledge more accessible to everyone.
-
-I graduated from Northeastern University from Boston (MA) with a Master’s of Science in Industrial Engineering in May 2017. During my studies, I became particularly interested in Data Science and started specializing in that field. My capstone project was an application of Data Mining in the field of aviation, where I studied the relationships between airports and the cities they were in the US. I was also a Teaching Assistant for the Intro to Data Mining and Machine Learning class, which covered subjects such as linear and logistic regression, decision trees, Naive Bayes, dimensionality reduction, text mining and others. I believe machine learning and predictive analytics help businesses gain better insights into its operations and processes, thus allowing them to make better decisions.
+I graduated from Northeastern University from Boston (MA) with a Master’s of Science in Industrial Engineering in May 2017. During my studies, I became particularly interested in Data Science and started specializing in that field. I believe machine learning and predictive analytics help businesses gain better insights into its operations and processes, thus allowing them to make better decisions.
 
 Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com), a company that has become a reference in teaching quantitative finance for the Brazilian financial market.
 
@@ -13,6 +13,15 @@ https://github.com/Trading-com-Dados
 
 Current status
 I am currently reviewing and updating some old repositories I had here and maybe don't make sense anymore.
+
+[PT]
+Olá a todos! Sejam bem-vindos ao meu Github
+
+Alguns repositórios que vocês vão encontrar por aqui
+Aulas & Palestras -  Códigos desenvolvidos em aulas e palestras dadas em universidades
+Finanças Quantitativas - Principalmente rascunhos e tentativas de algoritmos que desenvolvo na área de finanças quantitativas
+Tutoriais Públicos (Trading com Dados) - Tutoriais desenvolvidos para o Instagram da Trading com Dados
+Lives (Trading com Dados) - Códigos desenvolvidos em lives e vídeos da Trading com Dados
 
 
 ## Page under construction!
