@@ -26,6 +26,9 @@ Alguns repositórios que vocês vão encontrar por aqui
 4. ([Lives e Vídeos](https://github.com/Trading-com-Dados/codigos_videos)) (Trading com Dados) - Códigos desenvolvidos em lives e vídeos da Trading com Dados
 
 
+Para conhecer o Github da Trading com Dados, clique no link abaixo:
+https://github.com/Trading-com-Dados
+
 ## Page under construction!
 
 
