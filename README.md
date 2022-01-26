@@ -14,6 +14,7 @@ https://github.com/Trading-com-Dados
 Current status
 I am currently reviewing and updating some old repositories I had here and maybe don't make sense anymore.
 
+-------------------
 [PT]
 Olá a todos! Sejam bem-vindos ao meu Github
 
