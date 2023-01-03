@@ -8,8 +8,10 @@ I graduated from Northeastern University from Boston (MA) with a Master’s of S
 
 Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com), a company that has become a reference in teaching quantitative finance for the Brazilian financial market.
 
-If you want to check Trading com Dados' github, click the link below
+
+If you want to check Trading com Dados' github, click the link below:
 https://github.com/Trading-com-Dados
+
 
 Current status
 I am currently reviewing and updating some old repositories I had here and maybe don't make sense anymore.
@@ -30,6 +32,8 @@ Para conhecer o Github da Trading com Dados, clique no link abaixo:
 https://github.com/Trading-com-Dados
 
 ## Page under construction!
+
+Last update 01/03/2023
 
 
 
