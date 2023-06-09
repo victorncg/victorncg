@@ -8,11 +8,16 @@ I graduated from Northeastern University from Boston (MA) with a Master’s of S
 
 Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com), a company that has become a reference in teaching quantitative finance for the Brazilian financial market.
 
-My CV: [Click Here](https://github.com/victorncg/victorncg/blob/main/20210513%20-%20Resume%20Victor%20Gomes.pdf)
+We have recently launched our own Python library for quantitative finance!
 
 
 If you want to check Trading com Dados' github, click the link below:
 https://github.com/Trading-com-Dados
+
+My CV: [Click Here](https://github.com/victorncg/victorncg/blob/main/20210513%20-%20Resume%20Victor%20Gomes.pdf)
+
+
+
 
 
 Current status
