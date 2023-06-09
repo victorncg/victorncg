@@ -11,7 +11,11 @@ Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com),
 We have recently launched our own Python library for quantitative finance!
 
 ```python 
-your_code = do_some_stuff
+!pip install tradingcomdados
+import tradingcomdados as tcd
+
+# Obtenção de dados
+tcd.get_data('PETR4', start = '01/01/2019')
 ```
 
 
