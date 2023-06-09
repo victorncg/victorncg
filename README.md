@@ -10,6 +10,10 @@ Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com),
 
 We have recently launched our own Python library for quantitative finance!
 
+```python 
+your_code = do_some_stuff
+```
+
 
 If you want to check Trading com Dados' github, click the link below:
 https://github.com/Trading-com-Dados
