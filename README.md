@@ -1,12 +1,8 @@
 # Victor Gomes
 
-Welcome to my page everyone!
+CEO and co-founder [@tradingcomdados](https://www.tradingcomdados.com)
 
-[EN]
-I am an engineer who found my true passion in the world of data. I found out that the power of data can improve our decision making in the financial markets, and since then have dedicated my life to making this knowledge more accessible to everyone.
-I graduated from Northeastern University from Boston (MA) with a Master’s of Science in Industrial Engineering in May 2017. During my studies, I became particularly interested in Data Science and started specializing in that field. I believe machine learning and predictive analytics help businesses gain better insights into its operations and processes, thus allowing them to make better decisions.
-
-Me and some friends founded [@tradingcomdados](https://www.tradingcomdados.com), a company that has become a reference in teaching quantitative finance for the Brazilian financial market.
+Welcome everyone!
 
 We have recently launched our own Python library for quantitative finance!
 
