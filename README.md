@@ -24,9 +24,6 @@ My CV: [Click Here](https://github.com/victorncg/victorncg/blob/main/20210513%20
 
 
 
-Current status
-I am currently reviewing and updating some old repositories I had here and maybe don't make sense anymore.
-
 -------------------
 
 
