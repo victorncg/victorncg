@@ -34,12 +34,10 @@ I am currently reviewing and updating some old repositories I had here and maybe
 -------------------
 
 
-Para conhecer o Github da Trading com Dados, clique no link abaixo:
-https://github.com/Trading-com-Dados
 
 ## Page under construction!
 
-Last update 05/01/2023
+Last update 06/09/2023
 
 
 
