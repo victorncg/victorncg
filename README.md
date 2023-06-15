@@ -2,9 +2,7 @@
 
 **CEO and co-founder [@tradingcomdados](https://www.tradingcomdados.com)**
 
-Welcome everyone!
-
-We have recently launched our own Python library for quantitative finance!
+We have recently launched our own Python library for quantitative finance. Check it out!
 
 ```python 
 !pip install tradingcomdados
