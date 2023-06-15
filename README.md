@@ -1,6 +1,6 @@
 # Victor Gomes
 
-CEO and co-founder [@tradingcomdados](https://www.tradingcomdados.com)
+**CEO and co-founder [@tradingcomdados](https://www.tradingcomdados.com)**
 
 Welcome everyone!
 
