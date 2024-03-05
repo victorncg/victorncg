@@ -4,12 +4,44 @@
 
 We have recently launched our own Python library for quantitative finance. Check it out!
 
-```python 
-!pip install tradingcomdados
-import tradingcomdados as tcd
+## Machine Learning
+This library has a few machine learning models that you can use in your daily activities.
 
-# Obtenção de dados
-tcd.get_data('PETR4', start = '01/01/2019')
+With our lib, you can easily implement machine learning models to your daily activities in the financial market.
+
+```python
+from tradingcomdados import unsupervised_learning as ul
+
+ul.clustering_pipeline()
+```
+
+## Alternative Data
+You can obtain alternative data from the Brazilian Market using this library
+
+Examples:
+* Indexes, such as IBOV, IFIX but also S&P 500
+* Economy sectors of companies listed in the Brazilian stock exchange
+
+
+```python
+from tradingcomdados import alternative_data as ad
+
+# General function
+ad.ibov_composition()
+
+# Obtaining composition of IBOV
+ad.ibov_composition('Ibov')
+
+# Obtaining sectors of Brazilian companies listed at B3
+ad.setores_bolsa()
+
+# Obtaining sector of a particular company
+ad.setores_bolsa('PETR')
+
+# Notice we are not using numbers at the end of tickers
+ad.setores_bolsa('VALE')
+
+
 ```
 
 
@@ -28,7 +60,7 @@ My CV: [Click Here](https://github.com/victorncg/victorncg/blob/main/20210513%20
 
 ## Page under construction!
 
-Last update 06/09/2023
+Last update 05/03/2023
 
 
 
