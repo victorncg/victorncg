@@ -48,7 +48,6 @@ ad.setores_bolsa('VALE')
 If you want to check Trading com Dados' github, click the link below:
 https://github.com/Trading-com-Dados
 
-My CV: [Click Here](https://github.com/victorncg/victorncg/blob/main/20210513%20-%20Resume%20Victor%20Gomes.pdf)
 
 
 
