@@ -19,10 +19,10 @@ Examples:
 from tradingcomdados import alternative_data as ad
 
 # General function
-ad.ibov_composition()
+ad.index_composition()
 
 # Obtaining composition of IBOV
-ad.ibov_composition('Ibov')
+ad.index_composition('Ibov')
 
 # Obtaining sectors of Brazilian companies listed at B3
 ad.setores_bolsa()
