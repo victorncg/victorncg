@@ -4,16 +4,8 @@
 
 We have recently launched our own Python library for quantitative finance. Check it out!
 
-## Machine Learning
-This library has a few machine learning models that you can use in your daily activities.
+### I'm currently working on the Alternative Data module of our library
 
-With our lib, you can easily implement machine learning models to your daily activities in the financial market.
-
-```python
-from tradingcomdados import unsupervised_learning as ul
-
-ul.clustering_pipeline()
-```
 
 ## Alternative Data
 You can obtain alternative data from the Brazilian Market using this library
