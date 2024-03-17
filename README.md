@@ -22,16 +22,19 @@ from tradingcomdados import alternative_data as ad
 ad.index_composition()
 
 # Obtaining composition of IBOV
-ad.index_composition('Ibov')
+ad.index_composition('ibov')
+
+# Obtaining composition of S&P500
+ad.index_composition('sp500')
 
 # Obtaining sectors of Brazilian companies listed at B3
 ad.setores_bolsa()
 
 # Obtaining sector of a particular company
-ad.setores_bolsa('PETR')
+ad.get_sectors('PETR')
 
 # Notice we are not using numbers at the end of tickers
-ad.setores_bolsa('VALE')
+ad.get_sectors('VALE')
 
 
 ```
@@ -51,7 +54,7 @@ https://github.com/Trading-com-Dados
 
 ## Page under construction!
 
-Last update 05/03/2023
+Last update 16/03/2024
 
 
 
