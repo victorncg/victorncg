@@ -28,7 +28,7 @@ ad.index_composition('ibov')
 ad.index_composition('sp500')
 
 # Obtaining sectors of Brazilian companies listed at B3
-ad.setores_bolsa()
+ad.get_sectors()
 
 # Obtaining sector of a particular company
 ad.get_sectors('PETR')
