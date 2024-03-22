@@ -2,7 +2,7 @@
 
 **Co-founder [@tradingcomdados](https://www.tradingcomdados.com)**
 
-### I'm currently working on tradingcomdados' Python library, mainly on the Alternative Data and Funds Data modules.
+I'm currently working on tradingcomdados' Python library, mainly on the Alternative Data and Funds Data modules.
 
 
 ## Alternative Data
