@@ -60,4 +60,4 @@ Last update 16/03/2024
 
 [![Victor Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorncg&count_private=true&show_icons=true&theme=algolia)](https://github.com/victorncg/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorncg&layout=compact&theme=algolia)](https://github.com/victorncg/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorncg&layout=compact)
