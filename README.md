@@ -1,10 +1,8 @@
 # Victor Gomes
 
-**CEO and co-founder [@tradingcomdados](https://www.tradingcomdados.com)**
+**Co-founder [@tradingcomdados](https://www.tradingcomdados.com)**
 
-We have recently launched our own Python library for quantitative finance. Check it out!
-
-### I'm currently working on the Alternative Data module of our library
+### I'm currently working on tradingcomdados' Python library, mainly on the Alternative Data and Funds Data modules.
 
 
 ## Alternative Data
