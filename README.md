@@ -16,23 +16,19 @@ Examples:
 ```python
 from tradingcomdados import alternative_data as ad
 
-# General function
-ad.index_composition()
-
+# How to use function 'index_composition'
 # Obtaining composition of IBOV
 ad.index_composition('ibov')
 
 # Obtaining composition of S&P500
 ad.index_composition('sp500')
 
+# ================================
 # Obtaining sectors of Brazilian companies listed at B3
-ad.get_sectors()
+ad.get_sectors('B3')
 
-# Obtaining sector of a particular company
-ad.get_sectors('PETR')
-
-# Notice we are not using numbers at the end of tickers
-ad.get_sectors('VALE')
+# Obtaining sector of a particular company, you have to pass it as list
+ad.get_sectors('B3',['PETR4'])
 
 
 ```
