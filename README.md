@@ -2,7 +2,7 @@
 
 Experienced Senior Data Scientist with a robust background in machine learning, big data, and advanced analytics. Proficient in designing scalable data solutions, developing predictive models, and applying AI to solve complex business problems. With over 7 years of experience, I have contributed to impactful projects in fraud detection, financial market analysis, and lead scoring, achieving measurable outcomes such as revenue growth and operational efficiency. Skilled in Python, SQL, and cloud platforms, I thrive in data-driven environments where I can deliver value through innovative solutions.
 
-I am also one of the developers behind library **tradingcomdados**
+I am also one of the developers behind library **tradingcomdados**, which aims to make access to financial market data easier.
 
 
 ## Alternative Data
