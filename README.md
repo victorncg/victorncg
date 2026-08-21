@@ -1,57 +1,88 @@
+<div align="center">
+
 # Victor Gomes
 
-Experienced Senior Data Scientist with a robust background in machine learning, big data, and advanced analytics. Proficient in designing scalable data solutions, developing predictive models, and applying AI to solve complex business problems. With over 7 years of experience, I have contributed to impactful projects in fraud detection, financial market analysis, and lead scoring, achieving measurable outcomes such as revenue growth and operational efficiency. Skilled in Python, SQL, and cloud platforms, I thrive in data-driven environments where I can deliver value through innovative solutions.
+### Lead Data Scientist · AI Engineer
 
-I am also one of the developers behind library **tradingcomdados**, which aims to make access to financial market data easier.
+**Machine Learning · Generative AI · Data & AI Systems**
 
+Building production-oriented AI, ML, and data systems that turn complex business problems into measurable outcomes.
 
-## Alternative Data
-You can obtain alternative data from the Brazilian Market using this library
+</div>
 
-Examples:
-* Indexes, such as IBOV, IFIX but also S&P 500
-* Economy sectors of companies listed in the Brazilian stock exchange
+---
 
+## About me
 
-```python
-from tradingcomdados import alternative_data as ad
+I'm a **Lead Data Scientist / AI Engineer with 8+ years of experience** building data, machine learning, and AI systems across financial services and digital products.
 
-# How to use function 'index_composition'
-# Obtaining composition of IBOV
-ad.index_composition('ibov')
+My background spans predictive modeling, fraud prevention, lead scoring, personalization, large-scale analytics, and cloud data platforms. Today, my main focus is at the intersection of **Data Science and AI Engineering**: designing reliable LLM-powered systems, data agents, governed workflows, and production-ready AI services.
 
-# Obtaining composition of S&P500
-ad.index_composition('sp500')
+I care especially about the engineering layer that turns a model or prototype into something people can safely use in production: **evaluation, observability, guardrails, orchestration, APIs, data quality, auditability, and controlled execution**.
 
-# ================================
-# Obtaining sectors of Brazilian companies listed at B3
-ad.get_sectors('B3')
+---
 
-# Obtaining sector of a particular company, you have to pass it as list
-ad.get_sectors('B3',['PETR4'])
+## What I work with
 
+- **Generative AI & AI Engineering:** LLM applications, AI agents, RAG patterns, structured outputs, evaluation workflows, semantic and execution guardrails
+- **Machine Learning:** supervised and unsupervised learning, ranking & recommendation, lead scoring, fraud detection, feature engineering, model evaluation
+- **Data & Analytics Engineering:** SQL, BigQuery, dbt, data modeling, analytics pipelines, governed self-service data workflows
+- **Backend & Production Systems:** Python, FastAPI, Pydantic, APIs, Docker, testing, CI/CD, cloud deployment
 
-```
+---
 
+## Selected impact
 
-If you want to check Trading com Dados' github, click the link below:
-https://github.com/Trading-com-Dados
+- Built and led **DataCraft**, an AI-first data agent that translates natural-language business requests into governed and auditable BigQuery workflows.
+- Automated commercial lead-generation workflows supporting an estimated **~$1M monthly revenue pipeline**, while ML and data initiatives contributed to approximately **BRL 18M in incremental revenue**.
+- Developed fraud-detection and risk models at **XP Inc.**, helping prevent more than **BRL 50M in potential losses** across fraud, money laundering, account invasion, and advisor-risk scenarios.
+- Built credit-scoring and fraud models at **Itaú Unibanco**, achieving over **90% recall** and helping prevent more than **BRL 5M in losses**.
 
+---
 
+## Tech stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
+---
 
+## Career snapshot
 
--------------------
+**Brasil Paralelo** — Lead Data Scientist / AI Engineer  
+*2024 — Present*
 
+**TCD Tech** — Co-founder / Data Science Lead  
+*2022 — 2024*
 
+**XP Inc.** — Data Scientist, Fraud Prevention & Analytics / People Analytics  
+*2018 — 2022*
 
-## Page under construction!
+**Itaú Unibanco** — Data Scientist  
+*2016 — 2018*
 
-Last update 16/03/2024
+---
 
+## Current interests
 
+I'm currently exploring the intersection between **LLM systems, AI agents, retrieval, evaluation, observability, recommendation systems, and ML system design** — with an emphasis on moving AI from prototypes into reliable production systems.
 
-![Victor Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorncg&show_icons=true&theme=default)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorncg&layout=compact)
+<div align="center">
+
+### Let's connect
+
+São Paulo, Brazil · [victorncg@gmail.com](mailto:victorncg@gmail.com)
+
+</div>
